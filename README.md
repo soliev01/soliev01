@@ -7,6 +7,9 @@
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soliev01&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?soliev01&layout=compact&theme=vision-friendly-dark)](https://github.com/soliev01/github-readme-stats)
+
 <!--
 **soliev01/soliev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
