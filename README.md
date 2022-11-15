@@ -12,7 +12,7 @@
 ![Soliev's GitHub stats](https://github-readme-stats.vercel.app/api?username=soliev01&show_icons=true&theme=transparent&hide=stars,issues,contribs&count_private=true)
 
 ### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soliev01&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soliev01&layout=compact&theme=transparent&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soliev01)
 
