@@ -4,6 +4,9 @@
 
 ### Hi there 👋
 
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soliev01&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **soliev01/soliev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
