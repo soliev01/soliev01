@@ -7,12 +7,12 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soliev01&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
-### Stats
+<!-- ### Stats -->
 <!-- ![Soliev's GitHub stats](https://github-readme-stats.vercel.app/api?username=soliev01&show_icons=true&theme=transparent&hide=stars,issues,contribs) -->
-![Soliev's GitHub stats](https://github-readme-stats.vercel.app/api?username=soliev01&show_icons=true&theme=transparent&hide=stars,issues,contribs&count_private=true)
+<!-- ![Soliev's GitHub stats](https://github-readme-stats.vercel.app/api?username=soliev01&show_icons=true&theme=transparent&hide=stars,issues,contribs&count_private=true) -->
 
-### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soliev01&layout=compact&theme=transparent&count_private=true&langs_count=7)
+<!-- ### Languages -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soliev01&layout=compact&theme=transparent&count_private=true&langs_count=7) -->
 
 <!-- <picture>
 <source 
